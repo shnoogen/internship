@@ -1,0 +1,12 @@
+.container {
+  max-width: 1000px;
+  margin: 30px auto;
+  padding: 3em;
+}
+table {
+  max-width: 150px;
+word-wrap: break-word;
+}
+th {
+  max-width: 100px;
+}
